@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e4ef163-7d99-4e67-987c-c55fa1e3aeb1)# PruebaTecnicaVerticcal
+# PruebaTecnicaVerticcal
 1. Descripción del Proyecto
 El proyecto se divide en 2 secciones basado en los puntos establecidos en la prueba, el primer punto es resuelto en el archivo "ConsumoAPI.py", el segundo en el archivo "CreacionAPI.py" y el cuarto en el archivo "ManipulaciónDatos.py".
 2. Clonación de repositorio
@@ -33,13 +33,13 @@ En este proyecto se usaron 2 librerias (Requests, Flask), acontinuación se enli
         4.3.4. Para ordenar los leads escribir la siguiente linea de código: ordenar()
 5. Ejemplo de Endpoints
    5.1. Busqueda de un pokemon
-   [https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Comando%20para%20la%20busqueda%20de%20un%20Pokemon.jpg]
+   ![image](https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Comando%20para%20la%20busqueda%20de%20un%20Pokemon.jpg)
    5.2. Resultado del pokemon (Mewtwo)
-   [https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Resultado%20para%20la%20busqueda%20de%20Mewtwo.jpg]
+   ![image](https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Resultado%20para%20la%20busqueda%20de%20Mewtwo.jpg)
    5.3. Busqueda de tipo
-   [https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Comando%20para%20la%20busqueda%20de%20un%20tipo.jpg]
+   ![image](https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Comando%20para%20la%20busqueda%20de%20un%20tipo.jpg)
    5.4. Resultado de la busqueda de tipo (Fuego)
-   [https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Resultado%20para%20la%20busqueda%20del%20tipo%20fuego.jpg]
+   ![image](https://github.com/FEPC/PruebaTecnicaVerticcal/blob/main/Ejemplo/Resultado%20para%20la%20busqueda%20del%20tipo%20fuego.jpg)
    
     
    
